@@ -1,7 +1,7 @@
 CONTENTS:
 =========
 
-GITHUB REPO FOR PROJECT: https://github.com/zcabuma/GOSH-FHIRworks2020-RAKSHITA-KUMAR.git
+GITHUB REPO FOR PROJECT: https://github.com/zcabuma/GOSH-FHIRworks2020-RAKSHITA-KUMAR.git --> please try the src code on moodle if this doesnt work
 
 1. FHIR Hack Main Project
 NOTE: the FHIR Hack Main Project is the env/ folder
